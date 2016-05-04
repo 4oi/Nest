@@ -1,0 +1,12 @@
+[submodule "nest-api"]
+	path = nest-api
+	url = https://git.llv.jp/toy/nest-api.git
+[submodule "nest-core"]
+	path = nest-core
+	url = https://git.llv.jp/toy/nest-core.git
+[submodule "nest-bukkit"]
+	path = nest-bukkit
+	url = https://git.llv.jp/toy/nest-bukkit.git
+[submodule "nest-basic"]
+	path = nest-basic
+	url = https://git.llv.jp/toy/nest-basic.git
