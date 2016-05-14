@@ -10,3 +10,9 @@
 [submodule "nest-basic"]
 	path = nest-basic
 	url = https://git.llv.jp/toy/nest-basic.git
+[submodule "nest-vault"]
+	path = nest-vault
+	url = https://git.llv.jp/toy/nest-vault.git
+[submodule "nest-bukkit-basic"]
+	path = nest-bukkit-basic
+	url = https://git.llv.jp/toy/nest-bukkit-basic.git
