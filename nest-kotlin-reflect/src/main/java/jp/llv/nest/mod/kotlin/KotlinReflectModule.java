@@ -6,6 +6,7 @@
 package jp.llv.nest.mod.kotlin;
 
 import jp.llv.nest.module.Module;
+import jp.llv.nest.module.ReqVer;
 
 /**
  *
@@ -13,4 +14,6 @@ import jp.llv.nest.module.Module;
  */
 @Module(name="kotlin-reflect", author = "toyblocks", version=1)
 public class KotlinReflectModule {
+    public KotlinReflectModule(@ReqVer(min = 1, max = 1) KotlinModule module) {
+    }
 }

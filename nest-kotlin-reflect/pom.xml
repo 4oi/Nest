@@ -50,6 +50,12 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
+            <groupId>jp.llv</groupId>
+            <artifactId>nest-kotlin</artifactId>
+            <version>1</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-reflect</artifactId>
             <version>1.0.1-2</version>
