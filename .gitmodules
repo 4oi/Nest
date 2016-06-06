@@ -16,3 +16,9 @@
 [submodule "nest-bukkit-basic"]
 	path = nest-bukkit-basic
 	url = https://git.llv.jp/toy/nest-bukkit-basic.git
+[submodule "nest-bungeecord"]
+	path = nest-bungeecord
+	url = https://git.llv.jp/toy/nest-bungeecord.git
+[submodule "nest-sponge"]
+	path = nest-sponge
+	url = https://git.llv.jp/toy/nest-sponge.git
