@@ -23,14 +23,16 @@
  */
 package jp.llv.nest.mod.kotlin;
 
+import javax.inject.Inject;
 import jp.llv.nest.module.Module;
 
 /**
  *
  * @author toyblocks
  */
-@Module(name="kotlin-reflect", author = "toyblocks", version=1)
+@Module(name="kotlin-reflect", author = "toyblocks", version=2)
 public class KotlinReflectModule {
+    @Inject
     public KotlinReflectModule(KotlinModule module) {
     }
 }
