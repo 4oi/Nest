@@ -24,11 +24,15 @@
 package jp.llv.nest.mod.kotlin;
 
 import jp.llv.nest.module.Module;
+import javax.inject.Inject;
 
 /**
  *
  * @author toyblocks
  */
-@Module(name="kotlin", author = "toyblocks", version=1)
+@Module(name="kotlin", author = "toyblocks", version=2)
 public class KotlinModule {
+    @Inject
+    public KotlinModule() {
+    }
 }
