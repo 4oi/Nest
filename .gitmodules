@@ -31,3 +31,6 @@
 [submodule "nest-bukkit-events"]
 	path = nest-bukkit-events
 	url = https://git.llv.jp/toy/nest-bukkit-events.git
+[submodule "nest-bungeecord-api"]
+	path = nest-bungeecord-api
+	url = https://git.llv.jp/toy/nest-bungeecord-api.git
