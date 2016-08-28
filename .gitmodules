@@ -22,9 +22,12 @@
 [submodule "nest-sponge"]
 	path = nest-sponge
 	url = https://git.llv.jp/toy/nest-sponge.git
-[submodule "nest-bungeecord-api"]
-	path = nest-bungeecord-api
-	url = https://git.llv.jp/toy/nest-bungeecord-api.git
 [submodule "nest-bukkit-api"]
 	path = nest-bukkit-api
 	url = https://git.llv.jp/toy/nest-bukkit-api.git
+[submodule "nest-events"]
+	path = nest-events
+	url = https://git.llv.jp/toy/nest-events.git
+[submodule "nest-bukkit-events"]
+	path = nest-bukkit-events
+	url = https://git.llv.jp/toy/nest-bukkit-events.git
