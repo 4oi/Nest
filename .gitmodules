@@ -7,9 +7,6 @@
 [submodule "BukkitAPI"]
 	path = Nest-BukkitAPI
 	url = git@github.com:4oi/Nest-BukkitAPI.git
-[submodule "BukkitBasic"]
-	path = Nest-BukkitBasic
-	url = git@github.com:4oi/Nest-BukkitBasic.git
 [submodule "BukkitCore"]
 	path = Nest-BukkitCore
 	url = git@github.com:4oi/Nest-BukkitCore.git
@@ -34,6 +31,3 @@
 [submodule "SpongeCore"]
 	path = Nest-SpongeCore
 	url = git@github.com:4oi/Nest-SpongeCore.git
-[submodule "Nest-SpongeAPI"]
-	path = Nest-SpongeAPI
-	url = git@github.com:4oi/Nest-SpongeAPI.git
