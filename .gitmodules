@@ -1,6 +1,9 @@
 [submodule "API"]
 	path = Nest-API
 	url = git@github.com:4oi/Nest-API.git
+[submodule "Basic"]
+	path = Nest-Basic
+	url = git@github.com:4oi/Nest-Basic.git
 [submodule "BukkitAPI"]
 	path = Nest-BukkitAPI
 	url = git@github.com:4oi/Nest-BukkitAPI.git
