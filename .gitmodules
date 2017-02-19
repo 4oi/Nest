@@ -1,36 +1,36 @@
-[submodule "nest-api"]
-	path = nest-api
-	url = https://git.llv.jp/toy/nest-api.git
-[submodule "nest-core"]
-	path = nest-core
-	url = https://git.llv.jp/toy/nest-core.git
-[submodule "nest-bukkit"]
-	path = nest-bukkit
-	url = https://git.llv.jp/toy/nest-bukkit.git
-[submodule "nest-basic"]
-	path = nest-basic
-	url = https://git.llv.jp/toy/nest-basic.git
-[submodule "nest-vault"]
-	path = nest-vault
-	url = https://git.llv.jp/toy/nest-vault.git
-[submodule "nest-bukkit-basic"]
-	path = nest-bukkit-basic
-	url = https://git.llv.jp/toy/nest-bukkit-basic.git
-[submodule "nest-bungeecord"]
-	path = nest-bungeecord
-	url = https://git.llv.jp/toy/nest-bungeecord.git
-[submodule "nest-sponge"]
-	path = nest-sponge
-	url = https://git.llv.jp/toy/nest-sponge.git
-[submodule "nest-bukkit-api"]
-	path = nest-bukkit-api
-	url = https://git.llv.jp/toy/nest-bukkit-api.git
-[submodule "nest-events"]
-	path = nest-events
-	url = https://git.llv.jp/toy/nest-events.git
-[submodule "nest-bukkit-events"]
-	path = nest-bukkit-events
-	url = https://git.llv.jp/toy/nest-bukkit-events.git
-[submodule "nest-bungeecord-api"]
-	path = nest-bungeecord-api
-	url = https://git.llv.jp/toy/nest-bungeecord-api.git
+[submodule "API"]
+	path = Nest-API
+	url = git@github.com:4oi/Nest-API.git
+[submodule "BukkitAPI"]
+	path = Nest-BukkitAPI
+	url = git@github.com:4oi/Nest-BukkitAPI.git
+[submodule "BukkitBasic"]
+	path = Nest-BukkitBasic
+	url = git@github.com:4oi/Nest-BukkitBasic.git
+[submodule "BukkitCore"]
+	path = Nest-BukkitCore
+	url = git@github.com:4oi/Nest-BukkitCore.git
+[submodule "BukkitEvents"]
+	path = Nest-BukkitEvents
+	url = git@github.com:4oi/Nest-BukkitEvents.git
+[submodule "BukkitVault"]
+	path = Nest-BukkitVault
+	url = git@github.com:4oi/Nest-BukkitVault.git
+[submodule "BungeecordAPI"]
+	path = Nest-BungeecordAPI
+	url = git@github.com:4oi/Nest-BungeecordAPI.git
+[submodule "BungeecordCore"]
+	path = Nest-BungeecordCore
+	url = git@github.com:4oi/Nest-BungeecordCore.git
+[submodule "Core"]
+	path = Nest-Core
+	url = git@github.com:4oi/Nest-Core.git
+[submodule "Events"]
+	path = Nest-Events
+	url = git@github.com:4oi/Nest-Events.git
+[submodule "SpongeAPI"]
+	path = Nest-SpongeAPI
+	url = git@github.com:4oi/Nest-SpongeAPI.git
+[submodule "SpongeCore"]
+	path = Nest-
+	url = git@github.com:4oi/Nest-SpongeCore.git
