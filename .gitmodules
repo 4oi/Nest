@@ -37,3 +37,9 @@
 [submodule "Nest-SpongeAPI"]
 	path = Nest-SpongeAPI
 	url = git@github.com:4oi/Nest-SpongeAPI.git
+[submodule "Nest-KotlinReflection"]
+	path = Nest-KotlinReflection
+	url = git@github.com:4oi/Nest-KotlinReflection.git
+[submodule "Nest-Kotlin"]
+	path = Nest-Kotlin
+	url = git@github.com:4oi/Nest-Kotlin.git
