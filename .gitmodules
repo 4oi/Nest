@@ -31,9 +31,9 @@
 [submodule "Events"]
 	path = Nest-Events
 	url = git@github.com:4oi/Nest-Events.git
-[submodule "SpongeAPI"]
-	path = Nest-SpongeAPI
-	url = git@github.com:4oi/Nest-SpongeAPI.git
 [submodule "SpongeCore"]
 	path = Nest-SpongeCore
 	url = git@github.com:4oi/Nest-SpongeCore.git
+[submodule "Nest-SpongeAPI"]
+	path = Nest-SpongeAPI
+	url = git@github.com:4oi/Nest-SpongeAPI.git
